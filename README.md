@@ -20,4 +20,5 @@
 
 <img src="https://covers.openlibrary.org/b/title/Designing%20Data-Intensive%20Applications-M.jpg" alt="Designing Data-Intensive Applications cover" width="180">
 
+<img src="https://covers.openlibrary.org/b/olid/OL46807927M-M.jpg" alt="Against Technoableism: Rethinking Who Needs Improvement cover" width="180">
 </div>
