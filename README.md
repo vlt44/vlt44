@@ -1,16 +1,23 @@
-## Hi there 👋
+<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly; row-gap: 8px; align-items: flex-start;">
 
-<!--
-**vlt44/vlt44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://covers.openlibrary.org/b/olid/OL26119645M-M.jpg" alt="Python for Kids cover" width="180">
 
-Here are some ideas to get you started:
+<img src="https://covers.openlibrary.org/b/isbn/9781593274085-M.jpg" alt="JavaScript for Kids cover" width="180">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://covers.openlibrary.org/b/title/Eloquent%20JavaScript-M.jpg" alt="Eloquent JavaScript cover" width="180">
+
+<img src="https://covers.openlibrary.org/b/title/Grokking%20Algorithms-M.jpg" alt="Grokking Algorithms cover" width="180">
+
+<img src="https://covers.openlibrary.org/b/olid/OL26222911M-M.jpg" alt="Clean Code cover" width="180">
+
+<img src="./assets/CplusplusEarlyObjs.jpeg" alt="Often utilizes Starting out with C++: Early Objects cover" width="180">
+
+<img src="https://covers.openlibrary.org/b/olid/OL26838124M-M.jpg" alt="Data Abstraction & Problem Solving with C++: Walls and Mirrors cover" width="180">
+
+<img src="./assets/CompOrgDsgnARM.jpeg" alt="Computer Organization and Design ARM Edition: The Hardware Software Interface cover" width="180">
+
+<img src="https://covers.openlibrary.org/b/title/Clean%20Architecture-M.jpg" alt="Clean Architecture cover" width="180">
+
+<img src="https://covers.openlibrary.org/b/title/Designing%20Data-Intensive%20Applications-M.jpg" alt="Designing Data-Intensive Applications cover" width="180">
+
+</div>
