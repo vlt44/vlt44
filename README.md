@@ -14,7 +14,7 @@
 
 <img src="https://covers.openlibrary.org/b/olid/OL26838124M-M.jpg" alt="Data Abstraction & Problem Solving with C++: Walls and Mirrors cover" width="180" height="270">
 
-<img src="./assets/CompOrgDsgnARM.jpeg" alt="Computer Organization and Design ARM Edition: The Hardware Software Interface cover" width="180" height="270" style="object-fit: cover;">
+<img src="./assets/CompOrgDsgnARM.jpeg" alt="Computer Organization and Design ARM Edition: The Hardware Software Interface cover" width="180" style="height: auto;">
 
 <img src="https://covers.openlibrary.org/b/title/Grokking%20Algorithms-M.jpg" alt="Grokking Algorithms cover" width="180" height="270">
 
