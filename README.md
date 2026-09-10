@@ -6,8 +6,6 @@
 
 <img src="https://covers.openlibrary.org/b/title/Eloquent%20JavaScript-M.jpg" alt="Eloquent JavaScript cover" width="180">
 
-<img src="https://covers.openlibrary.org/b/title/Grokking%20Algorithms-M.jpg" alt="Grokking Algorithms cover" width="180">
-
 <img src="https://covers.openlibrary.org/b/olid/OL26222911M-M.jpg" alt="Clean Code cover" width="180">
 
 <img src="./assets/CplusplusEarlyObjs.jpeg" alt="Often utilizes Starting out with C++: Early Objects cover" width="180">
@@ -15,6 +13,8 @@
 <img src="https://covers.openlibrary.org/b/olid/OL26838124M-M.jpg" alt="Data Abstraction & Problem Solving with C++: Walls and Mirrors cover" width="180">
 
 <img src="./assets/CompOrgDsgnARM.jpeg" alt="Computer Organization and Design ARM Edition: The Hardware Software Interface cover" width="180">
+
+<img src="https://covers.openlibrary.org/b/title/Grokking%20Algorithms-M.jpg" alt="Grokking Algorithms cover" width="180">
 
 <img src="https://covers.openlibrary.org/b/title/Clean%20Architecture-M.jpg" alt="Clean Architecture cover" width="180">
 
