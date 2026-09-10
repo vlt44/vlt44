@@ -6,6 +6,8 @@
 
 <img src="https://covers.openlibrary.org/b/title/Eloquent%20JavaScript-M.jpg" alt="Eloquent JavaScript cover" width="180">
 
+<img src="https://covers.openlibrary.org/b/olid/OL26837129M-M.jpg" alt="The Little Elixir & OTP Guidebook cover" width="180">
+
 <img src="https://covers.openlibrary.org/b/olid/OL26222911M-M.jpg" alt="Clean Code cover" width="180">
 
 <img src="./assets/CplusplusEarlyObjs.jpeg" alt="Often utilizes Starting out with C++: Early Objects cover" width="180">
