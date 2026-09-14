@@ -24,3 +24,9 @@
 
 <img src="https://covers.openlibrary.org/b/olid/OL46807927M-M.jpg" alt="Against Technoableism: Rethinking Who Needs Improvement cover" width="180" height="270">
 </div>
+
+---
+
+### FIRST CODING PROJECT
+
+[![Scratch Game Preview](https://uploads.scratch.mit.edu/get_image/project/382209881_480x360.png)](https://scratch.mit.edu/projects/382209881)
