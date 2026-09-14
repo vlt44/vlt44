@@ -27,6 +27,12 @@
 
 ---
 
-### FIRST CODING PROJECT
+### FIRST CODING PROJECT 🕹️
+
+#### Late Night. Don't Become Takeout.
+
+**Stop the falling orders before they hit the ground.**
 
 [![Scratch Game Preview](https://uploads.scratch.mit.edu/get_image/project/382209881_480x360.png)](https://scratch.mit.edu/projects/382209881)
+
+### [CLICK TO PLAY THE GAME!](https://scratch.mit.edu/projects/382209881/)
